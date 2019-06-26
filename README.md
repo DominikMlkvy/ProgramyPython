@@ -1,2 +1,3 @@
 # ProgramyPython
-Veľké množstvo jednoduchých programov napísaných v jazyku Python
+Zopár jednoduchých scriptov napísaných v jazyku Python
+Jedná sa o školské úlohy
